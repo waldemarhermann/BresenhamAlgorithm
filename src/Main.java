@@ -12,7 +12,7 @@ public class Main {
         int x = x0;
         int y = y0;
         int e = 2 * dy - dx;
-//adasd
+
         while (x <= x1) {
             System.out.println("(" + x + ", " + y + ", " + e + ")");
             if (e >= 0) {
